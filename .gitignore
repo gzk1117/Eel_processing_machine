@@ -1,0 +1,29 @@
+# Keil generated build products
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.build_log.htm
+build.log
+
+# Per-user IDE settings and temporary files
+*.uvguix.*
+*.uvoptx
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local tooling
+__pycache__/
+.venv/

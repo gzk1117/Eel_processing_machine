@@ -1,0 +1,8 @@
+# Preserve the original firmware bytes, encodings, and line endings.
+firmware/stm32f103/** -text
+*.md text eol=lf
+*.sha256 text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.jpg binary
+*.png binary
